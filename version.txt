@@ -1,1 +1,1 @@
-1.1.0|https://github.com/sadovnikovdim/radioconverterpro/releases/download/v1.1.0/RadioConverterPro_v1.1.0_Setup.exe
+1.1.1|https://github.com/sadovnikovdim/radioconverterpro/releases/download/v1.1.1/RadioConverterPro_v1.1.1_Setup.exe
